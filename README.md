@@ -1,4 +1,4 @@
-#Image Generator
+# Image Generator
 
 This is a AI powered image generator 
 It uses OpenAI's API in order to generate custom images 
